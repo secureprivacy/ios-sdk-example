@@ -6,5 +6,5 @@ target 'Example' do
   use_frameworks!
 
   # Pods for Example
-  pod 'SecurePrivacyMobileConsent', '~> 0.2.2-alpha'
+  pod 'SecurePrivacyMobileConsent', '~> 0.2.3-beta'
 end
